@@ -4,7 +4,20 @@
 
 <!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
 
+O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condições de: 
+
+1. Dominar as técnicas de pensamento computacional para a solução de problemas: abstração, reconhecimento e generalização de padrões, e projeto de algoritmos
+2. Expressar computações através de uma linguagem de programação
+3. Utilizar uma abordagem sistemática para organizar, descrever, testar e depurar algoritmos
+4. Compreender de maneira introdutória o conceito de complexidade computacional
+5. Aprender a utilizar ferramentas computacionais para visualizar e compreender dados
+
+
 ### Python Notebooks
+
+	
+
+### Markdown
 
 TBD 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
