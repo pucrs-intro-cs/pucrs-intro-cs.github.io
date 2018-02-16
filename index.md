@@ -12,7 +12,7 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 4. Compreender de maneira introdutória o conceito de complexidade computacional
 5. Aprender a utilizar ferramentas computacionais para visualizar e compreender dados
 
-Instrutores em 2018/1:
+#### Instrutores em 2018/1:
 
 - [Bernardo Copstein](https://github.com/bcopstein)
 - [Alexandre Agustini](https://github.com/aagustini)
@@ -21,7 +21,14 @@ Instrutores em 2018/1:
 
 ### Python Notebooks
 
-1. [Elementos básicos de um programa]()
+1. [Programas Sequenciais](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/1-Sequential%20Programs.ipynb)
+2. [Programas Condicionais]()
+3. [Programas com Repetição]()
+4. [Representação de Ponto Flutuante]()
+5. [Aproximação e Convergência]()
+6. [Strings e Subprogramação]()
+7. [Recursão]()
+8. [Depuração]()
 
 ### Markdown
 
