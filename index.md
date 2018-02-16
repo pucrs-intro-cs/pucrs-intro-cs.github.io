@@ -15,7 +15,7 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 
 ### Python Notebooks
 
-	
+TBD
 
 ### Markdown
 
