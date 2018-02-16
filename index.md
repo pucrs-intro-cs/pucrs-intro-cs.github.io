@@ -12,10 +12,16 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 4. Compreender de maneira introdutória o conceito de complexidade computacional
 5. Aprender a utilizar ferramentas computacionais para visualizar e compreender dados
 
+Instrutores em 2018/1:
+
+- [Bernardo Copstein](https://github.com/bcopstein)
+- [Alexandre Agustini](https://github.com/aagustini)
+- [Felipe Meneguzzi](https://github.com/meneguzzi)
+
 
 ### Python Notebooks
 
-TBD
+1. [Elementos básicos de um programa]()
 
 ### Markdown
 
