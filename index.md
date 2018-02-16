@@ -29,6 +29,10 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 6. [Strings e Subprogramação]()
 7. [Recursão]()
 8. [Depuração]()
+9. [Tuplas]()
+10. [Lambda e Dicionários]()
+11. [Gráficos]()
+12. [Complexidade]()
 
 ### Markdown
 
