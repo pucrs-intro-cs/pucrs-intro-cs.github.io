@@ -23,7 +23,7 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 
 1. [Programas Sequenciais](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/1-Sequential%20Programs.ipynb)
 2. [Programas Condicionais](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/2-Branching%20Programs.ipynb)
-3. [Programas com Repetição]()
+3. [Programas com Repetição](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/3-Iterative%20Programs.ipynb)
 4. [Representação de Ponto Flutuante]()
 5. [Aproximação e Convergência]()
 6. [Strings e Subprogramação]()
