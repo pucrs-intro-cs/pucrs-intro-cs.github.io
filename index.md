@@ -34,9 +34,52 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 11. [Gráficos]()
 12. [Complexidade]()
 
-### Markdown
 
-TBD 
+### Lista de Leituras
+
+Data           |   Aula    |    Leitura  | Sala
+--------------- | ---------- | ------------  | ---------
+06/03/2018 | Apresentação da disciplina                                                            |   [Textbook: Chapter 1][Introduction to Computation and Programming Using Python]  | 
+08/03/2018 | Estratégia para solução de problemas                                                  |    | 
+13/03/2018 | Elementos básicos de um programa (cap 2.1 e 2.2) + ambiente de programação            |    | Laboratório - 310
+15/03/2018 | Exercícios programas sequenciais                                                      |    | Laboratório - 309
+20/03/2018 | Programas condicionais + Exercícios (cap. 2.2, 2.3, 2.4)                              |    | Laboratório - 309
+22/03/2018 | Programas com repetição + Exercícios (cap. 2.4)                                       |    | Laboratório - 309
+27/03/2018 | Exercício valendo nota                                                                |    | Laboratório - 309
+03/04/2018 | Representação de valores em ponto flutuante (cap. 3.4)                                |    | 
+05/04/2018 | Exercícios sobre representação de valores em ponto flutuante                          |    | Laboratório - 309
+10/04/2018 | Algoritmos de aproximação e convergência (cap. 3)                                     |    | Laboratório - 310
+12/04/2018 | Exercícios sobre algoritmos de aproximação e convergência                             |    | Laboratório - 309
+17/04/2018 | Strings + Exercícios (caps. 2.3 e 4.1)                                                |    | Laboratório - 309
+19/04/2018 | Funções + Exercícios (cap. 4.1, 4.2, 4.4, 4.5 e 4.6)                                  |    | Laboratório - 310
+24/04/2018 | Recursão + Exercícios (cap 4.3)                                                       |    | Laboratório - 309
+26/04/2018 | Prova P1                                                                              |    | 
+03/05/2018 | Correção da P1                                                                        |    | 
+08/05/2018 | Teste e depuração (cap 6)                                                             |    | Laboratório - 309
+10/05/2018 | Tuplas e listas + Exercícios (cap 5.1 a 5.3)                                          |    | Laboratório - 309
+15/05/2018 | Exercícios sobre tuplas e listas                                                      |    | Laboratório - 309
+17/05/2018 | Funções lambda + Exercícios (cap 5.4)                                                 |    | Laboratório - 310
+22/05/2018 | Dicionários + revisão de strings, tuplas, ranges e listas (cap. 5.5, 5.6)             |    | Laboratório - 309
+24/05/2018 | Exercícios sobre strings, listas, dicionários e tuplas                                |    | Laboratório - 309
+29/05/2018 | Exercício valendo nota                                                                |    | Laboratório - 309
+05/06/2018 | Traçado de gráficos (capítulo 11)                                                     |    | Laboratório - 309
+07/06/2018 | Exercícios sobre arquivos e traçado de gráficos                                       |    | Laboratório - 309
+12/06/2018 | Introdução a complexidade de algoritmos                                               |    | Laboratório - 310
+14/06/2018 | Exercícios sobre complexidade de algoritmos                                           |    | Laboratório - 309
+19/06/2018 | Exercícios sobre complexidade de algoritmos                                           |    | Laboratório - 309
+21/06/2018 | Exercício valendo nota                                                                |    | Laboratório - 309
+26/06/2018 | Dúvidas para prova                                                                    |    | 
+28/06/2018 | Prova P2                                                                              |    | 
+03/07/2018 | Prova PS                                                                              |    | 
+05/07/2018 | Dúvidas para G2                                                           
+
+#### Livros Texto
+
+[Introduction to Computation and Programming Using Python]: [https://github.com/y0m0/MIT.6.00.1x/raw/master/Introduction.to.Computation.and.Programming.Using.Python.2nd.Edition.pdf]
+
+<!-- ### Markdown
+
+TBD
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -57,7 +100,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
 
 
 <!-- Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
