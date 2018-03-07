@@ -50,21 +50,21 @@ Data           |   Aula    |    Leitura  | Sala
 05/04/2018 | Exercícios sobre representação de valores em ponto flutuante                          | Section 3.4 of [Textbook: Chapter 3][Introduction to Computation and Programming Using Python]   | Laboratório - 309
 10/04/2018 | Algoritmos de aproximação e convergência                                     |  [Textbook: Chapter 3][Introduction to Computation and Programming Using Python]  | Laboratório - 310
 12/04/2018 | Exercícios sobre algoritmos de aproximação e convergência                             |    | Laboratório - 309
-17/04/2018 | Strings + Exercícios                                                |  Section 2.3 of [Textbook: Chapter 2][Introduction to Computation and Programming Using Python] and Section 4.1 of [Textbook: Chapter 4][Introduction to Computation and Programming Using Python]  | Laboratório - 309
-19/04/2018 | Funções + Exercícios (cap. 4.1, 4.2, 4.4, 4.5 e 4.6)                                  |    | Laboratório - 310
-24/04/2018 | Recursão + Exercícios (cap 4.3)                                                       |    | Laboratório - 309
+17/04/2018 | Strings                                                |  Section 2.3 of [Textbook: Chapter 2][Introduction to Computation and Programming Using Python] and Section 4.1 of [Textbook: Chapter 4][Introduction to Computation and Programming Using Python]  | Laboratório - 309
+19/04/2018 | Funções                                  |   Sections 4.1, 4.2, 4.4, 4.5 and 4.6 of [Textbook: Chapter 4][Introduction to Computation and Programming Using Python]  | Laboratório - 310
+24/04/2018 | Recursão                                                       |  Section 4.3 of [Textbook: Chapter 4][Introduction to Computation and Programming Using Python]  | Laboratório - 309
 26/04/2018 | Prova P1                                                                              |    | 
 03/05/2018 | Correção da P1                                                                        |    | 
-08/05/2018 | Teste e depuração (cap 6)                                                             |    | Laboratório - 309
-10/05/2018 | Tuplas e listas + Exercícios (cap 5.1 a 5.3)                                          |    | Laboratório - 309
+08/05/2018 | Teste e depuração                                                             |  [Textbook: Chapter 6][Introduction to Computation and Programming Using Python]  | Laboratório - 309
+10/05/2018 | Tuplas e listas                                          |  Sections 5.1 and 5.3 of [Textbook: Chapter 5][Introduction to Computation and Programming Using Python]  | Laboratório - 309
 15/05/2018 | Exercícios sobre tuplas e listas                                                      |    | Laboratório - 309
-17/05/2018 | Funções lambda + Exercícios (cap 5.4)                                                 |    | Laboratório - 310
-22/05/2018 | Dicionários + revisão de strings, tuplas, ranges e listas (cap. 5.5, 5.6)             |    | Laboratório - 309
+17/05/2018 | Funções lambda                                                 | Section 5.4 of [Textbook: Chapter 5][Introduction to Computation and Programming Using Python]   | Laboratório - 310
+22/05/2018 | Dicionários             | Sections 5.4 and 5.5 of [Textbook: Chapter 5][Introduction to Computation and Programming Using Python]   | Laboratório - 309
 24/05/2018 | Exercícios sobre strings, listas, dicionários e tuplas                                |    | Laboratório - 309
 29/05/2018 | Exercício valendo nota                                                                |    | Laboratório - 309
-05/06/2018 | Traçado de gráficos (capítulo 11)                                                     |    | Laboratório - 309
+05/06/2018 | Traçado de gráficos                                                     |   [Textbook: Chapter 11][Introduction to Computation and Programming Using Python]  | Laboratório - 309
 07/06/2018 | Exercícios sobre arquivos e traçado de gráficos                                       |    | Laboratório - 309
-12/06/2018 | Introdução a complexidade de algoritmos                                               |    | Laboratório - 310
+12/06/2018 | Introdução a complexidade de algoritmos                                               |  [Textbook: Chapter 9][Introduction to Computation and Programming Using Python]  | Laboratório - 310
 14/06/2018 | Exercícios sobre complexidade de algoritmos                                           |    | Laboratório - 309
 19/06/2018 | Exercícios sobre complexidade de algoritmos                                           |    | Laboratório - 309
 21/06/2018 | Exercício valendo nota                                                                |    | Laboratório - 309
