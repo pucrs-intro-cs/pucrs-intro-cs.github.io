@@ -40,8 +40,8 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 Data           |   Aula    |    Leitura  | Sala
 --------------- | ---------- | ------------  | ---------
 06/03/2018 | Apresentação da disciplina                                                            |   [Textbook: Chapter 1][Introduction to Computation and Programming Using Python]  | 
-08/03/2018 | Estratégia para solução de problemas                                                  |    | 
-13/03/2018 | Elementos básicos de um programa (cap 2.1 e 2.2) + ambiente de programação            |    | Laboratório - 310
+08/03/2018 | Estratégia para solução de problemas                                                  |   [Think like a programmer: Chapter 1][Think Like a Programmer: An Introduction to Creative Problem Solving]  | 
+13/03/2018 | Elementos básicos de um programa                                                     | Sections 2.1 and 2.2 of [Textbook: Chapter 2][Introduction to Computation and Programming Using Python]   | Laboratório - 310
 15/03/2018 | Exercícios programas sequenciais                                                      |    | Laboratório - 309
 20/03/2018 | Programas condicionais + Exercícios (cap. 2.2, 2.3, 2.4)                              |    | Laboratório - 309
 22/03/2018 | Programas com repetição + Exercícios (cap. 2.4)                                       |    | Laboratório - 309
@@ -76,6 +76,8 @@ Data           |   Aula    |    Leitura  | Sala
 #### Livros Texto
 
 [Introduction to Computation and Programming Using Python]: [https://github.com/y0m0/MIT.6.00.1x/raw/master/Introduction.to.Computation.and.Programming.Using.Python.2nd.Edition.pdf]
+[Think Like a Programmer: An Introduction to Creative Problem Solving]: [https://www.amazon.com/Think-Like-Programmer-Introduction-Creative/dp/1593274246/ref=sr_1_2?ie=UTF8&qid=1517942703&sr=8-2&keywords=THINK+LIKE+A+PROGRAMMER]
+
 
 <!-- ### Markdown
 
