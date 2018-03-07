@@ -42,15 +42,15 @@ Data           |   Aula    |    Leitura  | Sala
 06/03/2018 | Apresentação da disciplina                                                            |   [Textbook: Chapter 1][Introduction to Computation and Programming Using Python]  | 
 08/03/2018 | Estratégia para solução de problemas                                                  |   [Think like a programmer: Chapter 1][Think Like a Programmer: An Introduction to Creative Problem Solving]  | 
 13/03/2018 | Elementos básicos de um programa                                                     | Sections 2.1 and 2.2 of [Textbook: Chapter 2][Introduction to Computation and Programming Using Python]   | Laboratório - 310
-15/03/2018 | Exercícios programas sequenciais                                                      |    | Laboratório - 309
-20/03/2018 | Programas condicionais + Exercícios (cap. 2.2, 2.3, 2.4)                              |    | Laboratório - 309
-22/03/2018 | Programas com repetição + Exercícios (cap. 2.4)                                       |    | Laboratório - 309
+15/03/2018 | Exercícios programas sequenciais                                                      |  Sections 2.1 and 2.2 of [Textbook: Chapter 2][Introduction to Computation and Programming Using Python]   | Laboratório - 309
+20/03/2018 | Programas condicionais                               | Sections 2.2 and 2.3 and 2.4 of [Textbook: Chapter 2][Introduction to Computation and Programming Using Python]   | Laboratório - 309
+22/03/2018 | Programas com repetição                                        |  Sections 2.2 and 2.3 and 2.4 (mostly 2.4) of [Textbook: Chapter 2][Introduction to Computation and Programming Using Python]  | Laboratório - 309
 27/03/2018 | Exercício valendo nota                                                                |    | Laboratório - 309
-03/04/2018 | Representação de valores em ponto flutuante (cap. 3.4)                                |    | 
-05/04/2018 | Exercícios sobre representação de valores em ponto flutuante                          |    | Laboratório - 309
-10/04/2018 | Algoritmos de aproximação e convergência (cap. 3)                                     |    | Laboratório - 310
+03/04/2018 | Representação de valores em ponto flutuante                               | Section 3.4 of [Textbook: Chapter 3][Introduction to Computation and Programming Using Python]   | 
+05/04/2018 | Exercícios sobre representação de valores em ponto flutuante                          | Section 3.4 of [Textbook: Chapter 3][Introduction to Computation and Programming Using Python]   | Laboratório - 309
+10/04/2018 | Algoritmos de aproximação e convergência                                     |  [Textbook: Chapter 3][Introduction to Computation and Programming Using Python]  | Laboratório - 310
 12/04/2018 | Exercícios sobre algoritmos de aproximação e convergência                             |    | Laboratório - 309
-17/04/2018 | Strings + Exercícios (caps. 2.3 e 4.1)                                                |    | Laboratório - 309
+17/04/2018 | Strings + Exercícios                                                |  Section 2.3 of [Textbook: Chapter 2][Introduction to Computation and Programming Using Python] and Section 4.1 of [Textbook: Chapter 4][Introduction to Computation and Programming Using Python]  | Laboratório - 309
 19/04/2018 | Funções + Exercícios (cap. 4.1, 4.2, 4.4, 4.5 e 4.6)                                  |    | Laboratório - 310
 24/04/2018 | Recursão + Exercícios (cap 4.3)                                                       |    | Laboratório - 309
 26/04/2018 | Prova P1                                                                              |    | 
