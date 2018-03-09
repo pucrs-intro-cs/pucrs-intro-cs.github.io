@@ -27,12 +27,13 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 4. [Representação de Ponto Flutuante](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/4-Number%20Representation.ipynb)
 5. [Aproximação e Convergência](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/5-Approximation%20and%20Bissection.ipynb)
 6. [Strings e Subprogramação]()
-7. [Recursão]()
-8. [Depuração]()
-9. [Tuplas]()
-10. [Lambda e Dicionários]()
-11. [Gráficos]()
-12. [Complexidade]()
+7. [Funções, Módulos e Arquivos]()
+8. [Recursão]()
+9. [Depuração]()
+10. [Tuplas]()
+11. [Lambda e Dicionários]()
+12. [Gráficos]()
+13. [Complexidade]()
 
 
 ### Lista de Leituras
