@@ -35,6 +35,33 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 12. [Gráficos]()
 13. [Complexidade]()
 
+### Instruções para o uso do Git
+
+- [Hello World do Git](https://guides.github.com/activities/hello-world/): Explicações básicas sobre Git, Github e os commandos básicos deste tipo de sistema de versionamento
+- [Como configurar o Git](https://help.github.com/articles/set-up-git/)
+- [Como criar um repositório Git](https://help.github.com/articles/create-a-repo/)
+- [Como ramificar um repositório existente](https://help.github.com/articles/fork-a-repo/)
+- [Interação Social no Github](https://help.github.com/articles/be-social/)
+
+#### Ciclo básico de uso
+
+1. Clonar um repositório (pela primeira vez):
+```bash
+https://github.com/pucrs-intro-cs/python-notebooks.git
+```
+
+2. Sincronizar mudanças para a máquina local (assumindo pasta onde está o repositório):
+```bash
+cd python-notebooks
+git pull
+```
+
+3. Depositar mudanças feitas localmente e sincronizar com o remoto
+```
+git commit -m "Minha mensagem"
+git push orgin/master
+```
+
 
 ### Lista de Leituras
 
