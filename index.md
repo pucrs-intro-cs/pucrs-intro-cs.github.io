@@ -29,9 +29,9 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 6. [Strings e Subprogramação](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/6-Strings-and-Functions.ipynb)
 7. [Funções, Módulos, e Arquivos](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/7-Functions-Modules-Files.ipynb)
 8. [Recursão](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/8-Recursion.ipynb)
-9. [Depuração]()
-10. [Tuplas]()
-11. [Lambda e Dicionários]()
+9. [Depuração](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/9-Testing-Debugging.ipynb)
+10. [Tuplas](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/10-Tuples-Lists.ipynb)
+11. [Lambda e Dicionários](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/11-Lambdas-Dictionaries.ipynb)
 12. [Gráficos]()
 13. [Complexidade]()
 
