@@ -32,8 +32,8 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 9. [Depuração](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/9-Testing-Debugging.ipynb)
 10. [Tuplas](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/10-Tuples-Lists.ipynb)
 11. [Lambda e Dicionários](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/11-Lambdas-Dictionaries.ipynb)
-12. [Gráficos]()
-13. [Complexidade]()
+12. [Gráficos](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/12-Plotting.ipynb)
+13. [Complexidade](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/13-Complexity.ipynb)
 
 
 ### Instruções para o uso do Git
