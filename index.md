@@ -21,6 +21,18 @@ O cumprimento da disciplina busca dar ao aluno, ao final do semestre, condiçõe
 
 ### Python Notebooks
 
+#### Instruções de uso do [Jupyter Notebook](http://jupyter.org/)
+
+1. Baixe os Notebooks (ou clone o repositório) no seu drive H
+2. Execute os seguintes comandos no terminal (assumindo o [bash](https://pt.wikipedia.org/wiki/Bash))
+```bash
+cd ~/DriveH/
+jupyter notebook
+```
+3. Acesse o browser e divirta-se
+
+#### Notebooks para 2018/1
+
 1. [Programas Sequenciais](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/1-Sequential%20Programs.ipynb)
 2. [Programas Condicionais](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/2-Branching%20Programs.ipynb)
 3. [Programas com Repetição](https://github.com/pucrs-intro-cs/python-notebooks/blob/master/3-Iterative%20Programs.ipynb)
