@@ -58,9 +58,9 @@ jupyter notebook
 
 #### Ciclo básico de uso
 
-1. Clonar um repositório (pela primeira vez):
+1. Clonar um repositório pela primeira vez (troque ```<seu repo>``` pelo nome do seu repositório: 
 ```bash
-https://github.com/pucrs-intro-cs/python-notebooks.git
+git clone <seu repo>
 ```
 
 2. Sincronizar mudanças para a máquina local (assumindo pasta onde está o repositório):
